@@ -1,12 +1,35 @@
+# 🌸 To Do List
+
+A cute and aesthetic notes/task management mobile app built using React Native and Expo ✨  
+Designed with a soft pink UI and clean modern layout for a smooth user experience.
+
+---
+
 ## 📱 Features
 
 - ➕ Add new tasks
+- ✔ Mark tasks as completed
+- 🗑 Delete tasks (with confirmation dialog)
 - 💾 Persistent local storage using AsyncStorage
 - 🎀 Minimal aesthetic UI
 - 🪟 Modal-based task input system
 - 📜 Scrollable task list
 - ⚡ Real-time task rendering
 - 📱 Built with React Native + Expo
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./docs/screenshots/todolist.png" alt="To Do List main screen" width="260" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/screenshots/warning-delete.png" alt="Delete task confirmation" width="260" />
+</p>
+
+<p align="center">
+  <em>Main task list</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Delete confirmation dialog</em>
+</p>
 
 ---
 
@@ -25,6 +48,7 @@ Planned features for future updates:
 
 ✏ Edit existing tasks
 🎬 UI animations
+📊 Task statistics
 ☁ Cloud synchronization
 🌙 Dark mode
 
@@ -74,10 +98,6 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
-
-Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
