@@ -17,7 +17,8 @@ Designed with a soft pink UI and clean modern layout for a smooth user experienc
 - ⚡ Real-time task rendering
 - 📱 Built with React Native + Expo
 
----
+## Demo
+[Screen_recording_20260905_080335.webm](https://github.com/user-attachments/assets/ba660e6b-d3a1-444d-b9a0-ab0cb90f3c76)
 
 ## 📸 Screenshots
 
